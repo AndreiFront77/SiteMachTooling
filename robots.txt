@@ -1,0 +1,4 @@
+# DEMONSTRAÇÃO: bloqueado para buscadores. Ao publicar no domínio oficial, troque por "Allow: /" e informe o sitemap.
+User-agent: *
+Disallow: /
+# Sitemap: https://SEU-DOMINIO/sitemap.xml
